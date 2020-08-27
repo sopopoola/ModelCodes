@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<www.Car.com:Car xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:www.Car.com="www.Car.com" xsi:schemaLocation="www.Car.com file:/E:/ECLIPSE/WorkSpace/Tool_ModelGeneration/src/Models/Car.ecore">
+  <windows/>
+  <windows/>
+  <windows/>
+  <windows/>
+  <wheels/>
+  <wheels/>
+  <wheels/>
+  <wheels/>
+</www.Car.com:Car>
